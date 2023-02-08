@@ -1,0 +1,8 @@
+
+  <script>
+    var capcha = Math.random() * 100000
+    var finalCapcha = Math.floor(capcha)
+    alert(finalCapcha)
+  </script>
+
+
